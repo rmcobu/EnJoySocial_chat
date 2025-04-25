@@ -91,7 +91,7 @@ export default {
 }
 
 .chat-header h2{
-font-family:'Tahoma', sans-serif;
+font-family:'DM Sans', sans-serif;
 font-size: 18px;
 
 }
@@ -139,7 +139,7 @@ font-size: 18px;
   background-color: #ff7f00;
   white-space: normal;
   word-wrap: break-word;
-  font-family: 'Tahoma', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   font-size: 13px
 }
 
@@ -165,7 +165,7 @@ font-size: 18px;
 
 .message-img{
   border-radius: 20px;
-  background-color: #fff550;
+  background-color: #ffecd7;
 }
 
 .chat-header img {
